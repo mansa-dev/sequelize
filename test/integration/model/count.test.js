@@ -51,5 +51,11 @@ describe(Support.getTestDialectTeaser('Model'), function() {
         }]
       })).to.eventually.equal(1);
     });
+
+    it('should allow options.where like [[cond, value]]', function() {
+      return expect(this.User.count({
+        where: [['username=?', 'boo']]
+      })).to.eventually.equal(1);
+    });
   });
 });
