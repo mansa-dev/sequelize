@@ -1836,7 +1836,7 @@ describe(Support.getTestDialectTeaser('Model'), function() {
         expect(m.name).to.be.eql(M1.name);
         expect(m.secret).to.be.eql(M1.secret);
 
-        return Maya.bulkCreate([M2])
+        return Maya.bulkCreate([M2]);
       }).spread((m) => {
 
         // fields are preserved
