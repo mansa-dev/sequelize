@@ -20,7 +20,7 @@
 - [CHANGED] `Sequelize.Validator` is now an independent copy of `validator` library
 - [FIXED] Don't patch `validator` library globally [#6196](https://github.com/sequelize/sequelize/issues/6196)
 - [CHANGED] `ignore` for create was renamed to `ignoreDuplicates` [#6138](https://github.com/sequelize/sequelize/issues/6138)
-- [FIXED] `bulkCreate` don't map fields to attributes properly [#4476](https://github.com/sequelize/sequelize/issues/4476)[#3908](https://github.com/sequelize/sequelize/issues/3908)[#4103](https://github.com/sequelize/sequelize/issues/4103)[#3764](https://github.com/sequelize/sequelize/issues/3764)[#4476](https://github.com/sequelize/sequelize/issues/4476)
+- [FIXED] `bulkCreate` don't map fields to attributes properly [#4476](https://github.com/sequelize/sequelize/issues/4476)[#3908](https://github.com/sequelize/sequelize/issues/3908)[#4103](https://github.com/sequelize/sequelize/issues/4103)[#3764](https://github.com/sequelize/sequelize/issues/3764)
 
 ## BC breaks:
 - Range type bounds now default to [postgres default](https://www.postgresql.org/docs/9.5/static/rangetypes.html#RANGETYPES-CONSTRUCT) `[)` (inclusive, exclusive), previously was `()` (exclusive, exclusive)
