@@ -38,4 +38,5 @@ If you still use 1.7 please prefer to [Upgrading to 2.0](https://github.com/sequ
 - [IRC](http://webchat.freenode.net?channels=sequelizejs): sequelizejs on Freenode
 - [Google Groups](https://groups.google.com/forum/#!forum/sequelize)
 - [Add-ons & Plugins](https://github.com/sequelize/sequelize/wiki/Add-ons-&-Plugins)
-# chatalyze-sequelize
+
+# sequelizer
