@@ -1,5 +1,3 @@
-# Sequelize
-
 [![Build Status](https://travis-ci.org/sequelize/sequelize.svg?branch=master)](https://travis-ci.org/sequelize/sequelize) [![Dependency Status](https://david-dm.org/sequelize/sequelize.svg)](https://david-dm.org/sequelize/sequelize) [![Test Coverage](https://codeclimate.com/github/sequelize/sequelize/badges/coverage.svg)](https://codeclimate.com/github/sequelize/sequelize)
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=955&style=bounties_received)](https://www.bountysource.com/teams/sequelize/issues?utm_source=Sequelize&utm_medium=shield&utm_campaign=bounties_received)
 [![Slack Status](http://sequelize-slack.herokuapp.com/badge.svg)](http://sequelize-slack.herokuapp.com)
@@ -40,3 +38,4 @@ If you still use 1.7 please prefer to [Upgrading to 2.0](https://github.com/sequ
 - [IRC](http://webchat.freenode.net?channels=sequelizejs): sequelizejs on Freenode
 - [Google Groups](https://groups.google.com/forum/#!forum/sequelize)
 - [Add-ons & Plugins](https://github.com/sequelize/sequelize/wiki/Add-ons-&-Plugins)
+# chatalyze-sequelize
